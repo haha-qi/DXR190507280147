@@ -1,3 +1,7 @@
+数据科学与计算机学院
+软件工程19本
+丁向荣  190507280147
+2019.12.09
 1.配置
 git config --global user.name "       "
 git config --global user.email 
