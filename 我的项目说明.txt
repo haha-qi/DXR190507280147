@@ -12,3 +12,11 @@ git config --global user.email
 (4)git reflog 
 7.查看本地库中的所有分支
 git branch -v 
+8.创建一个新的分支
+git branch dev 
+9.切换分支
+git checkout dev 
+10.切换到接收修改的分支
+git checkout master
+11.执行merge命令
+git merge dev
